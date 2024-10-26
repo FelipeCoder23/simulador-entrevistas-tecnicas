@@ -1,0 +1,31 @@
+# Entorno virtual personalizado
+simulador_entrevistas_env/
+
+# Archivos de configuración específicos del sistema
+*.env
+*.local
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración del entorno
+.env
+*.env
+
+# Archivos de logs
+*.log
+
+# Configuración de IDEs y editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Configuración específica de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos de dependencias
+pip-log.txt

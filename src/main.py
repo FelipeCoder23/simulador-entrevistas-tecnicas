@@ -1,0 +1,1 @@
+"simulador_entrevistas_env\Scripts\activate"
